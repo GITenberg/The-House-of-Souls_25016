@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/214
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25016#The-House-of-Souls
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2008-04-07'
 gutenberg_type: Text
